@@ -1,3 +1,5 @@
 plotly
 folium
 yfinance
+File "/mount/src/dataproject01/main.py", line 7, in <module>
+    from streamlit_folium import folium_static
