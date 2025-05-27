@@ -65,5 +65,3 @@ fig.update_layout(
 
 # 그래프 출력
 st.plotly_chart(fig, use_container_width=True)
-
-수업 댓글 추가...
